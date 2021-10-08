@@ -1,16 +1,30 @@
-### Hi there 👋
+## Sobre mi 👩 👋
 
-<!--
-**AstridMata/AstridMata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy Venezolana 🇻🇪 , viviendo en Argentina 🇦🇷
 
-Here are some ideas to get you started:
+👩‍🎓 Graduada de Ingeniero Ambiental pero el mundo IT es mi pasion.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📖 Estoy en Constante aprendizaje
+
+💻 Me gusta generar codigo y buscar soluciones.
+
+Hablo Español y un poco de Ingles
+
+## Herramientas y Tecnologias 🧰
+Languages: JavaScript
+
+Frontend: REACT, HTML5, CSS3
+
+VCS: GITHUB
+
+IDE's: VISUAL STUDIO CODE
+
+## Intereses Personales ❤️:
+Primero mi Familia 👨‍👩‍👦‍👦
+
+Amo las 🐢, Las actividades al aire libre 🪁 y disfruto mucho escribir ✍.
+
+## Contactame 📫:
+📧 mata.astrid.01@gmail.com
+
+https://www.linkedin.com/in/astrid-mata-877343214/
