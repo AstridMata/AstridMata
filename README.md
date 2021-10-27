@@ -1,6 +1,6 @@
 ## Sobre mi 👩 👋
 
-Soy Venezolana 🇻🇪 , viviendo en Argentina 🇦🇷
+
 
 👩‍🎓 Graduada de Ingeniero Ambiental pero el mundo IT es mi pasion.
 
