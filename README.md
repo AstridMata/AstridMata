@@ -19,10 +19,6 @@ VCS: GITHUB
 
 IDE's: VISUAL STUDIO CODE
 
-## Intereses Personales ❤️:
-Primero mi Familia 👨‍👩‍👦‍👦
-
-Amo las 🐢, Las actividades al aire libre 🪁 y disfruto mucho escribir ✍.
 
 ## Contactame 📫:
 📧 mata.astrid.01@gmail.com
