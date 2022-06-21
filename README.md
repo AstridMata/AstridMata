@@ -10,14 +10,10 @@
 
 Hablo Español y un poco de Ingles
 
-## Herramientas y Tecnologias 🧰
-Languages: JavaScript
+## Herramientas y Tecnologias 🧰:
+bootstrap css3 git html5 javascript nodejs postman react
 
-Frontend: REACT, HTML5, CSS3
-
-VCS: GITHUB
-
-IDE's: VISUAL STUDIO CODE
+Anurag's GitHub stats
 
 
 ## Contactame 📫:
