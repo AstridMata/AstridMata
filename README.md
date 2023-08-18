@@ -1,5 +1,6 @@
+![image](https://github.com/AstridMata/AstridMata/assets/86080960/3bc1acb1-d317-40e2-9bcc-32b485f15fac)
 
-![CHICA](https://github.com/AstridMata/AstridMata/assets/86080960/c1de1762-0aa0-4de4-ad2e-45340b94a7e7)
+
 
 
 ## Sobre mi 👩 👋
