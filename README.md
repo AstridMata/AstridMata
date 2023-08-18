@@ -1,7 +1,8 @@
+
+![CHICA](https://github.com/AstridMata/AstridMata/assets/86080960/c1de1762-0aa0-4de4-ad2e-45340b94a7e7)
+
+
 ## Sobre mi 👩 👋
-
-
-
 👩‍🎓 Graduada de Ingeniero Ambiental pero el mundo IT es mi pasion.
 
 📖 Estoy en Constante aprendizaje
