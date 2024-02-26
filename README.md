@@ -20,15 +20,15 @@
 
 ### Tecnologías que domino
 
-- JavaScript (JS)
-- Python
-- React
-- Vue
-- Node.js
-- Flask
-- SQL
-- HTML
-- CSS
+![JavaScript](https://img.shields.io/badge/JavaScript-★★★-yellow)
+![Python](https://img.shields.io/badge/Python-★★★-blue)
+![React](https://img.shields.io/badge/React-★★★★-blue)
+![Vue.js](https://img.shields.io/badge/Vue.js-★★-green)
+![Node.js](https://img.shields.io/badge/Node.js-★★-green)
+![Flask](https://img.shields.io/badge/Flask-★★★-black)
+![SQL](https://img.shields.io/badge/SQL-★★★-orange)
+![HTML](https://img.shields.io/badge/HTML-★★★-orange)
+![CSS](https://img.shields.io/badge/CSS-★★★★-purple)
 
 ### Repositorios
 
