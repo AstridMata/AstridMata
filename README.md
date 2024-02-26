@@ -1,37 +1,40 @@
 
 <p align="center">
-  <img src = "https://github.com/AstridMata/AstridMata/assets/86080960/3bc1acb1-d317-40e2-9bcc-32b485f15fac" width = "600" height = "300" align = "center">
-  <a href="mailto:mata.astrid,01@@gmail.com"><img src = "https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>   
-  <a href="https://www.linkedin.com/in/astridmata/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <img src = "https://github.com/AstridMata/AstridMata/assets/86080960/3bc1acb1-d317-40e2-9bcc-32b485f15fac" width = "600" height = "300" align = "center"/>
+ 
 </p>
 
 
 
 ## Hola 👋
 
-<h3><b><samp>Tools and Platform</samp></b></h3>
-<span>
+### Bienvenido a mi rincón de desarrollo 
 
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/python-5.svg" alt="drawing" width="50"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/mysql-6.svg" alt="drawing" width="50"/>
+¡Hola! Soy Astrid Mata, una apasionada desarrolladora en constante aprendizaje y actualmente también actúo como mentora. Puedes encontrarme explorando el fascinante mundo del desarrollo de videojuegos con Unity y perfeccionando mis habilidades en diversas tecnologías.
 
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/html.svg" alt="drawing" width="50"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/css.svg" alt="drawing" width="50"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/javascript.svg" alt="drawing" width="50"/>
+### Sobre mí
 
-  </span>
+- 💻 Desarrollador en constante evolución
+- 🎓 Teacher y mentora
+- 🕹️ Aprendiendo a desarrollar videojuegos con Unity
 
-<span>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bootstrap-5-1.svg" alt="drawing" width="50"/>
+### Tecnologías que domino
 
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/git-icon.svg" alt="drawing" width="40"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/Octocat.png" alt="drawing" width="50"/>
-<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/react-original.svg" height="auto" width="40">
-<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/redux-original.svg" height="auto" width="40">
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/visual-studio-code.svg" alt="drawing" width="40"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/heroku-4.svg" alt="drawing" width="40"/>
-</span>
-<hr> 
-<br />
-<br />
- 
+- JavaScript (JS)
+- Python
+- React
+- Vue
+- Node.js
+- Flask
+- SQL
+- HTML
+- CSS
+
+### Repositorios
+
+La mayoría de mis repositorios están actualmente en privado, ya que estoy trabajando en proyectos en desarrollo o proporcionando materiales exclusivos a mis estudiantes. ¡Pero no dudes en explorar los repositorios públicos que tengo disponibles!
+
+### ¡Conéctate conmigo!
+
+- <a href="https://www.linkedin.com/in/astridmata/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+- <a href="mailto:mata.astrid.01@gmail.com"><img src = "https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>   
