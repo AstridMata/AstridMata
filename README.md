@@ -7,7 +7,10 @@
 
 ### Bienvenido a mi espacio de desarrollo
 </div>
-¡Hola! Soy **Astrid Mata**, una apasionada **desarrolladora Full Stack**, **profesora**, y **mentora**. Estoy en constante aprendizaje y me gusta enfrentar nuevos desafíos, ya sea desarrollando aplicaciones web, explorando el mundo de la **ciberseguridad**, o creando videojuegos 2D.
+¡Hola! Soy <strong>Astrid Mata</strong>, una apasionada <strong>desarrolladora Full Stack</strong>, <strong>profesora</strong>, y <strong>mentora</strong>. Estoy en constante aprendizaje y me gusta enfrentar nuevos desafíos, ya sea desarrollando aplicaciones web, explorando el mundo de la <strong>ciberseguridad</strong>, o creando videojuegos 2D.
+
+
+
 
 ### Sobre mí
 
