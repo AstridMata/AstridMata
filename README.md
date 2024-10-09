@@ -3,7 +3,7 @@
  
 ![Captura de pantalla 2024-09-18 103722](https://github.com/user-attachments/assets/d4297273-c508-497e-9ccf-3e54a48237f1)
 
-## ¡Hola! 👋
+## < ¡Hola! 👋 />
 
 ### Bienvenido a mi espacio de desarrollo
 </div>
