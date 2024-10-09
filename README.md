@@ -21,7 +21,7 @@
 - 🌱 **En constante evolución:** Siempre buscando mejorar mis habilidades y aprender nuevas tecnologías.
 
 ### Tecnologías que manejo
-<div>
+<div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
@@ -45,9 +45,9 @@
 
 ### Proyectos y Repositorios
 
-Actualmente, muchos de mis proyectos están en privado ya que forman parte de material educativo o están en fase de desarrollo. Sin embargo, siempre estoy trabajando en cosas nuevas y emocionantes, ¡así que mantente atento a los repositorios públicos que tengo disponibles!
+Actualmente, muchos de mis proyectos están en privado  🔒 ya que forman parte de material educativo o están en fase de desarrollo. Sin embargo, siempre estoy trabajando en cosas nuevas y emocionantes, ¡así que mantente atento a los repositorios públicos que tengo disponibles!
 
-### ¡Conéctate conmigo!
+### 📫 ¡Conéctate conmigo!
 
 - <a href="https://www.linkedin.com/in/astridmata/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 - <a href="mailto:mata.astrid.01@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
